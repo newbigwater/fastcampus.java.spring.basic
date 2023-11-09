@@ -29,15 +29,15 @@
 - URL : [https://jdk.java.net/11/](https://jdk.java.net/11/)
     - OpenJDK Archive 클릭
     
-    ![Untitled](resource/Untitled.png)
+    ![Untitled](./resource/Untitled.png)
     
     - 11 version 중 암것나 선택
         - 11.0.2 Zip file 다운로드.
         - GA : General Availability : 배포 가능 버전
     
-    ![Untitled](resource/Untitled%201.png)
+    ![Untitled](./resource/Untitled%201.png)
     
-    ![Untitled](resource/Untitled%202.png)
+    ![Untitled](./resource/Untitled%202.png)
     
     ---
     
@@ -49,11 +49,11 @@
 - URL : [https://github.com/spring-attic/toolsuite-distribution/wiki/Spring-Tool-Suite-3](https://github.com/spring-attic/toolsuite-distribution/wiki/Spring-Tool-Suite-3)
     - Spring Tool Suite3 wiki 클
     
-    ![Untitled](resource/Untitled%203.png)
+    ![Untitled](./resource/Untitled%203.png)
     
     - 첫 번째 URL
     
-    ![Untitled](resource/Untitled%204.png)
+    ![Untitled](./resource/Untitled%204.png)
     
 
 ---
@@ -68,4 +68,4 @@
 - URL : [https://www.jetbrains.com/ko-kr/idea/download/?section=windows](https://www.jetbrains.com/ko-kr/idea/download/?section=windows)
     - ultimate version download
     
-    ![Untitled](resource/Untitled%205.png)
+    ![Untitled](./resource/Untitled%205.png)
