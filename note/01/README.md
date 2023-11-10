@@ -18,18 +18,18 @@
 
 ### 01.01 JDK 11 Download
 
-- URL : [https://jdk.java.net/11/](https://jdk.java.net/11/)
+- URL : [https:/jdk.java.net/11/](https:/jdk.java.net/11/)
     - OpenJDK Archive 클릭
     
-    ![Untitled](./img//Untitled.png)
+    ![Untitled](./img/Untitled.png)
     
     - 11 version 중 암것나 선택
         - 11.0.2 Zip file 다운로드.
         - GA : General Availability : 배포 가능 버전
     
-    ![Untitled](./img//Untitled%201.png)
+    ![Untitled](./img/Untitled%201.png)
     
-    ![Untitled](./img//Untitled%202.png)
+    ![Untitled](./img/Untitled%202.png)
     
     ---
     
@@ -38,14 +38,14 @@
 
 ### 02.01 STS3 Download
 
-- URL : [https://github.com/spring-attic/toolsuite-distribution/wiki/Spring-Tool-Suite-3](https://github.com/spring-attic/toolsuite-distribution/wiki/Spring-Tool-Suite-3)
+- URL : [https:/github.com/spring-attic/toolsuite-distribution/wiki/Spring-Tool-Suite-3](https:/github.com/spring-attic/toolsuite-distribution/wiki/Spring-Tool-Suite-3)
     - Spring Tool Suite3 wiki 클
     
-    ![Untitled](./img//Untitled%203.png)
+    ![Untitled](./img/Untitled%203.png)
     
     - 첫 번째 URL
     
-    ![Untitled](./img//Untitled%204.png)
+    ![Untitled](./img/Untitled%204.png)
     
 
 ---
@@ -57,7 +57,7 @@
 > 무료판은 Sping boot만 된다.
 30일 무료판 다운로드 후 상용
 > 
-- URL : [https://www.jetbrains.com/ko-kr/idea/download/?section=windows](https://www.jetbrains.com/ko-kr/idea/download/?section=windows)
+- URL : [https:/www.jetbrains.com/ko-kr/idea/download/?section=windows](https:/www.jetbrains.com/ko-kr/idea/download/?section=windows)
     - ultimate version download
     
-    ![Untitled](./img//Untitled%205.png)
+    ![Untitled](./img/Untitled%205.png)
