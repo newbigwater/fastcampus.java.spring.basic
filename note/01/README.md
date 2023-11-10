@@ -19,7 +19,7 @@
 ### 01.01 JDK 11 Download
 
 - URL : [https:/jdk.java.net/11/](https:/jdk.java.net/11/)
-    - OpenJDK Archive 클릭
+    - OpenJDK Archive
     
     ![Untitled](./img/Untitled.png)
     
@@ -39,7 +39,7 @@
 ### 02.01 STS3 Download
 
 - URL : [https:/github.com/spring-attic/toolsuite-distribution/wiki/Spring-Tool-Suite-3](https:/github.com/spring-attic/toolsuite-distribution/wiki/Spring-Tool-Suite-3)
-    - Spring Tool Suite3 wiki 클
+    - Spring Tool Suite3 wiki
     
     ![Untitled](./img/Untitled%203.png)
     
@@ -55,7 +55,7 @@
 ### 03.01 IntelliJ Ultimate Download
 
 > 무료판은 Sping boot만 된다.
-30일 무료판 다운로드 후 상용
+유료판 30일 무료판 다운로드 후 사용
 > 
 - URL : [https:/www.jetbrains.com/ko-kr/idea/download/?section=windows](https:/www.jetbrains.com/ko-kr/idea/download/?section=windows)
     - ultimate version download
