@@ -1,10 +1,10 @@
 # 01. Development Environment
 
-# 00. Environment
+## 00. Environment
 
-## 00.01 OS : Windows 11 x64
+### 00.01 OS : Windows 11 x64
 
-## 00.02 Development kit
+### 00.02 Development kit
 
 - JDK 11
 - IDE
@@ -14,9 +14,9 @@
 
 ---
 
-# 01. JDK Install
+## 01. JDK Install
 
-## 01.01 JDK 11 Download
+### 01.01 JDK 11 Download
 
 - URL : [https://jdk.java.net/11/](https://jdk.java.net/11/)
     - OpenJDK Archive 클릭
@@ -34,9 +34,9 @@
     ---
     
 
-# 02. STS Install
+## 02. STS Install
 
-## 02.01 STS3 Download
+### 02.01 STS3 Download
 
 - URL : [https://github.com/spring-attic/toolsuite-distribution/wiki/Spring-Tool-Suite-3](https://github.com/spring-attic/toolsuite-distribution/wiki/Spring-Tool-Suite-3)
     - Spring Tool Suite3 wiki 클
@@ -50,9 +50,9 @@
 
 ---
 
-# 03. IntelliJ Insall
+## 03. IntelliJ Insall
 
-## 03.01 IntelliJ Ultimate Download
+### 03.01 IntelliJ Ultimate Download
 
 > 무료판은 Sping boot만 된다.
 30일 무료판 다운로드 후 상용
