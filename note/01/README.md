@@ -1,11 +1,5 @@
 # 01. Development Environment
 
-생성일: 2023년 11월 9일 오후 10:47
-
-- Index
-
----
-
 # 00. Environment
 
 ## 00.01 OS : Windows 11 x64
