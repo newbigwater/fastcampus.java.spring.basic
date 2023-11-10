@@ -27,15 +27,15 @@
 - URL : [https://jdk.java.net/11/](https://jdk.java.net/11/)
     - OpenJDK Archive 클릭
     
-    ![Untitled](01%20Development%20Environment%2073a32477018d4ed4bf4299be57f3bc19/Untitled.png)
+    ![Untitled](./img//Untitled.png)
     
     - 11 version 중 암것나 선택
         - 11.0.2 Zip file 다운로드.
         - GA : General Availability : 배포 가능 버전
     
-    ![Untitled](01%20Development%20Environment%2073a32477018d4ed4bf4299be57f3bc19/Untitled%201.png)
+    ![Untitled](./img//Untitled%201.png)
     
-    ![Untitled](01%20Development%20Environment%2073a32477018d4ed4bf4299be57f3bc19/Untitled%202.png)
+    ![Untitled](./img//Untitled%202.png)
     
     ---
     
@@ -47,11 +47,11 @@
 - URL : [https://github.com/spring-attic/toolsuite-distribution/wiki/Spring-Tool-Suite-3](https://github.com/spring-attic/toolsuite-distribution/wiki/Spring-Tool-Suite-3)
     - Spring Tool Suite3 wiki 클
     
-    ![Untitled](01%20Development%20Environment%2073a32477018d4ed4bf4299be57f3bc19/Untitled%203.png)
+    ![Untitled](./img//Untitled%203.png)
     
     - 첫 번째 URL
     
-    ![Untitled](01%20Development%20Environment%2073a32477018d4ed4bf4299be57f3bc19/Untitled%204.png)
+    ![Untitled](./img//Untitled%204.png)
     
 
 ---
@@ -66,4 +66,4 @@
 - URL : [https://www.jetbrains.com/ko-kr/idea/download/?section=windows](https://www.jetbrains.com/ko-kr/idea/download/?section=windows)
     - ultimate version download
     
-    ![Untitled](01%20Development%20Environment%2073a32477018d4ed4bf4299be57f3bc19/Untitled%205.png)
+    ![Untitled](./img//Untitled%205.png)
