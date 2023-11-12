@@ -61,7 +61,7 @@
             - 새 시스템 변수 추가 : JAVA_HOME
                 - Tomcat 때문에 설정한다.
     - 환경변수 편집창 확인 누르며 닫기
-    - 설명 이미
+    - 설명 이미지
         
         ![Untitled](./img/Untitled%204.png)
         
